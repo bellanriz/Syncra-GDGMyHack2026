@@ -1,0 +1,8 @@
+{
+  "name": "Remix: ZenBuild",
+  "description": "AI-powered web development mentorship, resource discovery, and stakeholder tracking platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
